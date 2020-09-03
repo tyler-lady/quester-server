@@ -1,0 +1,110 @@
+[
+    {
+        "Race": "Giant",
+        "Classes": [
+            {
+            "Name": "Elder",
+            "Stats": {
+                "HP": 115,
+                "Strength": 16,
+                "Speed": 9,
+                "Agility": 7,
+                "Intelligence": 10,
+                "Charisma": 8
+            }
+            },
+            {
+                "Name": "Wild",
+                "Stats": {
+                    "HP": 130,
+                    "Strength": 20,
+                    "Speed": 12,
+                    "Agility": 9,
+                    "Intelligence": 7,
+                    "Charisma": 5
+                }
+            }
+        ]
+    },
+    {
+        "Race": "Human",
+        "Classes": [
+            {
+            "Name": "Warrior",
+            "Stats": {
+                "HP": 105,
+                "Strength": 14,
+                "Speed": 13,
+                "Agility": 11,
+                "Intelligence": 10,
+                "Charisma": 12
+            }
+            },
+            {
+                "Name": "Noble",
+                "Stats": {
+                    "HP": 95,
+                    "Strength": 10,
+                    "Speed": 10,
+                    "Agility": 8,
+                    "Intelligence": 12,
+                    "Charisma": 16
+                }
+            }
+        ]
+    },
+    {
+        "Race": "Elf",
+        "Classes": [
+            {
+            "Name": "Ranger",
+            "Stats": {
+                "HP": 90,
+                "Strength": 12,
+                "Speed": 14,
+                "Agility": 18,
+                "Intelligence": 12,
+                "Charisma": 10
+            }
+            },
+            {
+                "Name": "Elder",
+                "Stats": {
+                    "HP": 80,
+                    "Strength": 9,
+                    "Speed": 12,
+                    "Agility": 14,
+                    "Intelligence": 16,
+                    "Charisma": 12
+                }
+            }
+        ]
+    },
+    {
+        "Race": "Orc",
+        "Classes": [
+            {
+            "Name": "Beserker",
+            "Stats": {
+                "HP": 115,
+                "Strength": 16,
+                "Speed": 12,
+                "Agility": 14,
+                "Intelligence": 6,
+                "Charisma": 6
+            }
+            },
+            {
+                "Name": "Shaman",
+                "Stats": {
+                    "HP": 105,
+                    "Strength": 14,
+                    "Speed": 10,
+                    "Agility": 10,
+                    "Intelligence": 11,
+                    "Charisma": 12
+                }
+            }
+        ]
+    }
+]
