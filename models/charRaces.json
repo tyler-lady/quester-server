@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "Name": "Giant",
+        "Stats": {
+            "HP": 125,
+            "Strength": 18,
+            "Speed": 10,
+            "Agility": 8,
+            "Intelligence": 8,
+            "Charisma": 6
+        }
+    },
+    {
+        "Id": 2,
+        "Name": "Human",
+        "Stats": {
+            "HP": 100,
+            "Strength": 12,
+            "Speed": 12,
+            "Agility": 10,
+            "Intelligence": 10,
+            "Charisma": 14
+        }
+    },
+    {
+        "Id": 3,
+        "Name": "Elf",
+        "Stats": {
+            "HP": 80,
+            "Strength": 10,
+            "Speed": 14,
+            "Agility": 16,
+            "Intelligence": 14,
+            "Charisma": 10
+        }
+    },
+    {
+        "Id": 4,
+        "Name": "Orc",
+        "Stats": {
+            "HP": 110,
+            "Strength": 14,
+            "Speed": 10,
+            "Agility": 12,
+            "Intelligence": 8,
+            "Charisma": 8
+        }
+    }
+]
