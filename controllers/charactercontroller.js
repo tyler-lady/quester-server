@@ -31,11 +31,11 @@ router.get('/:id', function (req, res) {
 });
 
 
-//Get All User Characters - works
+//Get All User Characters - works - while this works in Postman, this does not currently res(200) in client
 router.get('/user/mine', validateSession, function (req, res) {
     
     Character.findAll({
-        where: { user_id: req.user.id },
+        where: { userId: req.user.id },
         include: 'attribute'
     })
     .then(characters => res.status(200).json(characters))
